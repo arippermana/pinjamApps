@@ -1,0 +1,9 @@
+{
+    "signup": {
+        "path": "/signup",
+        "templateUrl": "signup.html",
+        "controller": "SignUpCtrl",
+        "default": false,
+        "mixins": ["state"]
+    }
+}

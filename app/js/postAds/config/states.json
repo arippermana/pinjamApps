@@ -1,0 +1,9 @@
+{
+    "postAds": {
+        "path": "/postAds",
+        "templateUrl": "postAds.html",
+        "controller": "PostAdsCtrl",
+        "default": false,
+        "mixins": ["state"]
+    }
+}

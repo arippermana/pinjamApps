@@ -1,0 +1,9 @@
+{
+    "login": {
+        "path": "/login",
+        "templateUrl": "login.html",
+        "controller": "LoginCtrl",
+        "default": false,
+        "mixins": ["state"]
+    }
+}

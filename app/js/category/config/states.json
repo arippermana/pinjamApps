@@ -1,0 +1,9 @@
+{
+    "category": {
+        "path": "/category",
+        "templateUrl": "category.html",
+        "controller": "CategoryCtrl",
+        "default": false,
+        "mixins": ["state"]
+    }
+}
